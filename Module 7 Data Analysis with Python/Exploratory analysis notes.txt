@@ -1,5 +1,8 @@
 df.corr() for numeric variables
 
+sns.boxplot() for categorical variables
+
+
 # PIVOT TABLE PLOTTING
 group = df[['var1', 'var2', 'output']]
 group_mean = group.groupby(['var1', 'var2'], as_index=False).mean()
@@ -25,8 +28,5 @@ plt.xticks(rotation=90)
 
 fig.colorbar(im)
 plt.show()
-
-
-sns.boxplot() for categorical variables
 
 
