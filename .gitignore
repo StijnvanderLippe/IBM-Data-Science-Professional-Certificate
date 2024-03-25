@@ -5,6 +5,9 @@ ibm/
 # db files
 *.db
 
+# mhtml files
+*.mhtml
+
 # txt files
 *.txt
 
