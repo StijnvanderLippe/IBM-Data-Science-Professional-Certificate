@@ -2,14 +2,11 @@
 ibm/
 .vscode/
 
-# db files
+# misc files
 *.db
-
-# mhtml files
 *.mhtml
-
-# txt files
 *.txt
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
