@@ -1,8 +1,12 @@
 # venv folder
 ibm/
+.vscode/
 
 # db files
 *.db
+
+# txt files
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
