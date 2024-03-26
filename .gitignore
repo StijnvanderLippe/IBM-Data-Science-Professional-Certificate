@@ -6,7 +6,6 @@ ibm/
 *.db
 *.mhtml
 *.txt
-*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
