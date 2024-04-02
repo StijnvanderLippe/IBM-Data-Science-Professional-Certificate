@@ -6,6 +6,9 @@ ibm/
 *.db
 *.mhtml
 *.txt
+kaggle.json
+Module 9 Machine Learning with Python/Week 3 Classification/yellow_tripdata_2019-06.csv
+Module 9 Machine Learning with Python/Week 3 Classification/creditcardfraud/creditcard.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
